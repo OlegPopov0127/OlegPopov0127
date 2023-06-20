@@ -1,60 +1,94 @@
-<div id="header" align="center">
-  <h1>🤡 Hi everyone! 🌺</h1>
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-  <img src="https://komarev.com/ghpvc/?username=HappyWebStar&style=flat-square&color=blue" alt=""/>
-</div>
+<h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=topskilldev&style=flat-square"></h2> 
 
----
-<p >
- <img align="right" width="340" height="230" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
-<!-- 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&color=0C2B39&center=true&vCenter=true&width=450&height=70&lines=8%2B+years+of+hands-on+IT+experience;Sincere+and+Reliable+Java+Backend+Developer;Perfect+Client-Oriented+Guy" alt="Typing SVG" /></a> -->
-  <br>
-&nbsp;&nbsp;Qualified Software Engineer with <strong>8+</strong> years of hands-on IT experience with main emphasis on <strong>backend development</strong> using <strong>JavaScript</strong>, <strong>React</strong>, <strong>Next.js</strong>, <strong>Python</strong>, <strong>ChatGPT</strong>, <strong>Django</strong> and <strong>NestJS</strong> framework with <strong>Microservice architectures</strong>. Participated in leading teams, development of services, components, modules, staff training, writing tests, support and maintenance of existing codebase.<br>
-&nbsp;&nbsp;The strength of me is that I am <strong>Always Sensitive</strong> to modern technologies and <strong>Open to New</strong> things. The past work shows that I understand and embody the needs of customers and be creative on their own.<br>
-&nbsp;&nbsp;I am glad to say that I aim to be the <strong>Perfect Client-Oriented Developer</strong>.
+<p align="justify">Creative software engineer with 8 years of experience.</p>
 
-</p>
+<p align="justify">As a talented and hardworking developer, I always stick to a result-driven working manner with great attention to detail, periodic thorough code review, and critical thinking. </p>
 
----
-### 🍭 Languages and Tools :
+<p align="justify">As a software engineer, I'm familiar with GitHub, GitLab, etc for version control and Jira and Trello for tasks management.</p>
+
+<p align="justify">Also, I'm familiar with several kinds of testing systems.
+I have been exposed to a wide variety of technologies in my career and consider myself to be very adaptable.</p>
+
+<p align="justify">The best quality, accurate timeline, free and polite after-service are what I guarantee to my clients.
+
+Sincerely,</p>
+
+## My Skills
+
+### Languages/Frameworks I'm good at:
+<code style="margin: 5px"><a href="#"><img alt="C++" title="C++" src="https://github.com/Nicoli430/logoMaster/blob/master/c++.png" height="42"></a></code>
+<code style="margin: 5px"><a href="#"><img alt="C#" title="C#" src="https://github.com/Nicoli430/logoMaster/blob/master/c%23.png" height="42"></a></code>
+<code style="margin: 5px"><a href="https://www.qt.io"><img alt="Qt" title="Qt" src="https://github.com/Nicoli430/logoMaster/blob/master/qt.png" height="42"></a></code>
+<code style="margin: 5px"><a href="https://www.javascript.com"><img alt="JavaScript" title="JavaScript" src="https://github.com/Nicoli430/logoMaster/blob/master/javascript.png" height="42"></a></code>
+<code style="margin: 5px"><a href="https://www.php.com"><img alt="Php" title="Php" src="https://github.com/Nicoli430/logoMaster/blob/master/php.png" height="42"></a></code>
+<code style="margin: 5px"><a href="https://python.org"><img alt="Python" title="Python" src="https://github.com/Nicoli430/logoMaster/blob/master/python.png" height="42"></a></code>
+<code style="margin: 5px"><a href="https://www.solidity.io"><img alt="Solidity" title="Solidity" src="https://github.com/Nicoli430/logoMaster/blob/master/solidity.png" height="42"></a></code>
+<code style="margin: 5px"><a href="https://java.com"><img alt="Java" title="Java" src="https://github.com/Nicoli430/logoMaster/blob/master/java.png" height="42"></a></code>
+<code style="margin: 5px"><a href=""><img alt="Dart" title="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" height="42"></a></code>
+<code style="margin: 5px"><a href=""><img alt="Go" title="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="42"></a></code>
+<code style="margin: 5px"><a href=""><img alt="Ruby" title="Ruby" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="42"></a></code>
+
+<hr/>
+<code style="margin: 5px"><a href="https://www.djangoproject.com"><img alt="Django" title="Django" src="https://github.com/Nicoli430/logoMaster/blob/master/django.png" height="42"></a></code>
+<code style="margin: 5px"><a href=""><img alt="Rails" title="Ruby on Rails" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="42"></a></code>
+<code style="margin: 5px"><a href="https://codeigniter.com"><img alt="Codeigniter" title="Codeigniter" src="https://github.com/Nicoli430/logoMaster/blob/master/ci.png" height="42"></a></code>
+<code style="margin: 5px"><a href="https://laravel.com"><img alt="Laravel" title="Laravel" src="https://github.com/Nicoli430/logoMaster/blob/master/laravel.png" height="42"></a></code>
+<code style="margin: 5px"><a href="https://nodejs.org"><img alt="Node.js" title="Node.js" src="https://github.com/Nicoli430/logoMaster/blob/master/nodejs.png" height="42"></a></code>
+<code style="margin: 5px"><a href="https://reactjs.org"><img alt="React.js" title="React.js" src="https://github.com/Nicoli430/logoMaster/blob/master/react.png" height="42"></a></code>
+<code style="margin: 5px"><a href="https://nextjs.org"><img alt="Next" title="Next" src="https://github.com/Nicoli430/logoMaster/blob/master/next.png" height="42"></a></code>
+<code style="margin: 5px"><a href="https://vuejs.org"><img alt="Vue.js" title="Vue.js" src="https://github.com/Nicoli430/logoMaster/blob/master/vue.png" height="42"></a></code>
+<code style="margin: 5px"><a href="https://vuejs.org"><img alt="Vuetify" title="Vuetify" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="42"></a></code>
+<code style="margin: 5px"><a href="https://nuxtjs.org"><img alt="Nuxt" title="Nuxt" src="https://github.com/Nicoli430/logoMaster/blob/master/nuxt.png" height="42"></a></code>
+<code style="margin: 5px"><a href="https://angular.io"><img alt="Angular" title="Agnular" src="https://github.com/Nicoli430/logoMaster/blob/master/angular.png" height="42"></a></code>
+<code style="margin: 5px"><a href=""><img alt="Hugo" title="Hugo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original-wordmark.svg" height="42"></a></code>
+<code style="margin: 5px"><a href=""><img alt="Webflow" title="Webflow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="42"></a></code>
+<code style="margin: 5px"><a href=""><img alt="Wordpress" title="Wordpress" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="42"></a></code>
+
+<hr/>
+<code style="margin: 5px"><a href=""><img alt="Oracle" title="Oracle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="42"></a></code>
+<code style="margin: 5px"><a href=""><img alt="SQLite" title="SQLite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="42"></a></code>
+<code style="margin: 5px"><a href="https://www.mysql.com"><img alt="MySQL" title="Mysql" src="https://github.com/Nicoli430/logoMaster/blob/master/mysql.png" height="42"></a></code>
+<code><a href="https://www.postgresql.org"><img alt="PostgreSQL" title="PostgreSQL" src="https://github.com/Nicoli430/logoMaster/blob/master/postgresql.png" height="42"></a></code>
+<code style="margin: 5px"><a href="https://www.mongodb.org"><img alt="MongoDB" title="MongoDB" src="https://github.com/Nicoli430/logoMaster/blob/master/mongodb.png" height="42"></a></code>
+<code style="margin: 5px"><a href=""><img alt="graphQL" title="graphQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" height="42"></a></code>
+<code style="margin: 5px"><a href=""><img alt="Firebase" title="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="42"></a></code>
+
+<hr/>
+<code style="margin: 5px"><a href=""><img alt="Docker" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="42"></a></code>
+<code style="margin: 5px"><a href=""><img alt="Kubernetes" title="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="42"></a></code>
+<code style="margin: 5px"><a href=""><img alt="DigitalOcean" title="DigitalOcean" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original-wordmark.svg" height="42"></a></code>
+<code style="margin: 5px"><a href=""><img alt="AWS" title="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="42"></a></code>
+<code style="margin: 5px"><a href=""><img alt="Azure" title="Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" height="42"></a></code>
+<code style="margin: 5px"><a href=""><img alt="Jira" title="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" height="42"></a></code>
+<code style="margin: 5px"><a href=""><img alt="Jenkins" title="Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="42"></a></code>
+<code style="margin: 5px"><a href=""><img alt="Trello" title="Trello" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" height="42"></a></code>
+
+<hr/>
+<code style="margin: 5px"><a href="https://android.com"><img alt="Android" title="Android" src="https://github.com/Nicoli430/logoMaster/blob/master/android.png" height="42"></a></code>
+<code style="margin: 5px"><a href="https://flutter.dev"><img alt="Flutter" title="Flutter" src="https://github.com/Nicoli430/logoMaster/blob/master/flutter.png" height="42"></a></code>
+<code style="margin: 5px"><a href="https://www.swift.com"><img alt="Swift" title="Swift" src="https://github.com/Nicoli430/logoMaster/blob/master/swift.png" height="42"></a></code>
+
+<hr/>
+<code style="margin: 5px"><a href="https://www.blockchain.com"><img alt="BlockChain" title="BlockChain" src="https://github.com/Nicoli430/logoMaster/blob/master/blockchain.png" height="42"></a></code>
+<code style="margin: 5px"><a href="https://solana.com"><img alt="Solana" title="Solana" src="https://github.com/Nicoli430/logoMaster/blob/master/solana.png" height="42"></a></code>
+
+### Languages/Frameworks I'm learning:
+
+
+
+
+
+### Environments I work with:
+
+<code><a href="https://www.apache.com"><img alt="AWS" title="AWS" src="https://github.com/Nicoli430/logoMaster/blob/master/apache.png" height="42"></a></code>
+<code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="https://github.com/Nicoli430/logoMaster/blob/master/git.png" height="42"></a></code>
+<code><a href="https://aws.amazon.com"><img alt="AWS" title="AWS" src="https://github.com/Nicoli430/logoMaster/blob/master/aws.png" height="42"></a></code>
+<code><a href="https://azure.microsoft.com/en-us/services/devops"><img alt="GitHub" title="Azure DevOps" src="https://github.com/Nicoli430/logoMaster/blob/master/azure.png" height="42"></a></code>
+
+## Stats
+
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=ruppysuppy&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+    <br />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=ruppysuppy.ruppysuppy" alt="visitors">
 </div>
-<!--
-**HappyWebStar/HappyWebStar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
